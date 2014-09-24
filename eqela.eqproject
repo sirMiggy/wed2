@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# wed2
+#
+
+projectname: wed2
+vendorid: com.sirmiggy.wed
+mainmodule: com.sirmiggy.wed.wed2
